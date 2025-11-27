@@ -1,3 +1,12 @@
+# Hello I'm Tejas
+**A passionate Data Analyst || Data Scientist**
+
+Email Me 👉 ✉️ **nikamtejas2402@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently Learning and working in:** **Data Science And AI**
+- 🌱 **I’m currently learning:** **Machine Learning And Algorithms**
+- 📫 **How to reach me:** nikamtejas2402@gmail.com
+  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tejas-nikam-a26867293) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikamtejas2402@gmail.com) 
