@@ -1,3 +1,5 @@
+![Tejas](https://github.com/TejasNikam24/TejasNikam24/blob/589ef9d92d1c4e86b4a89ded8e6723df8d767473/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png)
+
 # Hello I'm Tejas
 **A passionate Data Analyst || Data Scientist**
 
